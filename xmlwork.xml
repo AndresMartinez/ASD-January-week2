@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item id='1'>
+        <workOut>Chest</workOut>
+        <wkName>Bench Press</wkName>
+        <reps>20</reps>
+        <favorite>NO</favorite>
+        <notes>" "</notes>
+    </item>
+    
+    <item id='2'>
+        <workOut>Legs</workOut>
+        <wkName>LegPress</wkName>
+        <reps>25</reps>
+        <favorite>Yes</favorite>
+        <notes>""</notes>
+    </item>
+    
+    <item id='3'>
+        <workOut>Abbs</workOut>
+        <wkName>Situps</wkName>
+        <reps>25</reps>
+        <favorite>no</favorite>
+        <notes>""</notes>
+    </item>
+</items>
